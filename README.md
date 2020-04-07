@@ -1,12 +1,13 @@
 # AMR Game
 
-<img align="center" src="/assets/amr-awesome-logo.png" alt="Awesome" width=720>
+<p align="center">
+  <img src="/assets/amr-awesome-logo.png" alt="Awesome" width=720>
 
 | **AMR Members** |
 |-------------|
 | Alberto Menéndez Ruiz de Azúa |
 | Andrés Montero Ranc |
-
+</p>
 AMR Game: Our awesome projects.
 Useful, clever, smart, elegant, AWESOME tech projects built to make life easier (or not).
 
