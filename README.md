@@ -1,6 +1,6 @@
 # AMR Game
 
-<img src="/assets/amr-awesome-logo.png" alt="Awesome">
+<img src="/assets/amr-awesome-logo.png" alt="Awesome" width=720>
 
 | **AMR Members** |
 |-------------|
